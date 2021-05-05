@@ -1,0 +1,9 @@
+.vagrant
+*.log
+impacta-turma-4.json
+marco-mbaimpacta-turma04.json
+.backup
+gcp-compute-key
+.terraform
+.terraform*
+*.tfstate
